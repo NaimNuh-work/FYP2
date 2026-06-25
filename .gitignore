@@ -1,0 +1,6 @@
+.venv/
+.conda/
+__pycache__/
+.idea/
+dataset/
+runs/
